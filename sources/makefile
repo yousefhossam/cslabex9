@@ -1,3 +1,2 @@
-g++ -I ../headers main.cpp omarsabry.cpp -o out
-out: main.cpp omarsabry.cpp
-makefile: 
+main: main.cpp yousefhossam.cpp omar-sabry.cpp
+	g++  main.cpp  yousefhossam.cpp omar-sabry.cpp -I ../headers -o main
