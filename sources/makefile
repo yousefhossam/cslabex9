@@ -1,2 +1,2 @@
-main: main.cpp yousefhossam.cpp omar-sabry.cpp
-	g++  main.cpp  yousefhossam.cpp omar-sabry.cpp -I ../headers -o main
+main: main.cpp omar-sabry.cpp
+	g++  main.cpp  omar-sabry.cpp -I ../headers -o main
