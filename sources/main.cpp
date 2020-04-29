@@ -1,6 +1,6 @@
 #include <iostream>
 void omarsabry();
-void main()
+int main()
 {
 	omarsabry();
 }
