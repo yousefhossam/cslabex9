@@ -1,6 +1,8 @@
 #include <iostream>
+#include "omar-sabry.h"
 void omarsabry();
-void main()
+int main()
 {
 	omarsabry();
+	return 0;
 }
